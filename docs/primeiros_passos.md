@@ -28,14 +28,14 @@ página do GIECAR no GitHub.
 **Passo 1:** Acessar a pasta
 [releases](https://drive.google.com/drive/folders/1SoTH8_St27u3s_d1_TXK6QwWQHECKO1C?usp=sharing).
 
-![imagem 23](data/images/image23.jpg)
+![imagem 23](../data/images/image23.jpg)
 
 **Passo 2:** Selecionar a versão mais recente e clicar com botão
 direito.
 
 **Passo 3:** Clicar no botão de "Download", para executar o download.
 
-![imagem 40](data/images/image40.png)
+![imagem 40](../data/images/image40.png)
 
 ### 1.1.2 GitHub
 
@@ -44,18 +44,18 @@ direito.
 **Passo 1:** Extrair o arquivo compactado obtido por meio do download
 para qualquer diretório desejado.
 
-![](data/images/image22.png)
+![](../data/images/image22.png)
 
 **Passo 2:** Acessar a pasta "appy" criada.
 
 **Passo 3:** Executar o arquivo "appy Setup 1.0.1".
 
-![](data/images/image33.png)
+![](../data/images/image33.png)
 
 **Passo 4:** Aguarde até que seja finalizada a instalação. Será criado
 um atalho na Área de Trabalho e o appy será iniciado automaticamente.
 
-![](data/images/image27.png)
+![](../data/images/image27.png)
 
 ## 1.3 Interface gráfica do appy
 
@@ -72,7 +72,7 @@ descritos a seguir:
 - Área de visualização: área onde os objetos são apresentados, como os
   logplots e crossplots.
 
-![](data/images/image43.jpg)
+![](../data/images/image43.jpg)
 
 ### 1.3.1 Menu principal
 
@@ -93,7 +93,7 @@ O menu principal inclui:
 
 - Command: para executar comandos, como os cálculos petrofísicos.
 
-![](data/images/image36.jpg)
+![](../data/images/image36.jpg)
 
 ### 1.3.2 Menu lateral
 
@@ -103,7 +103,7 @@ uma interface em formato de "árvore". Nessa versão do software, só é
 possível visualizar as informações a respeito do poços importados, como
 os grupos de perfis e os próprios perfis presentes nesses grupos.
 
-![](data/images/image32.jpg)
+![](../data/images/image32.jpg)
 
 ### 1.3.3 Sistema de abas
 
@@ -112,7 +112,7 @@ responsável por apresentar todas as janelas abertas e clicando em cada
 título é possível mover entre as diferentes visualizações. Clicando no
 ícone do X, é possível fechar aquela janela em particular.
 
-![](data/images/image45.jpg)
+![](../data/images/image45.jpg)
 
 ### 1.3.4 Área de visualização
 
@@ -120,4 +120,4 @@ A área de visualização é o componente principal do appy. Todos os
 objetos criados a partir do resultado da execução de comandos são
 apresentados nessa área, como por exemplo, logplots e crossplots.
 
-![](data/images/image35.jpg)
+![](../data/images/image35.jpg)

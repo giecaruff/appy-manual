@@ -21,20 +21,20 @@ carregado.
 **Passo 2:** Clique no botão **RUN COMMAND**. Em seguida, uma nova
 janela se inicializará para escolher o comando desejado.
 
-![](data/images/image2.png)
+![](../data/images/image2.png)
 **Passo 3:** No seletor _Select command_, clique no comando _Batch
 import LAS file_.
 
-![](data/images/image17.png)
+![](../data/images/image17.png)
 **Passo 4:** No primeiro campo disponível, _LAS file folder path_,
 digite o caminho da pasta em que contém os arquivos LAS a serem
 importados.
 
-![](data/images/image5.png)
+![](../data/images/image5.png)
 **Passo 5:** Em seguida, no campo _File extension_, digite LAS para a
 extensão do arquivo LAS.
 
-![](data/images/image20.png)
+![](../data/images/image20.png)
 **Passo 6:** Caso deseje filtrar arquivos presentes na pasta
 selecionada, no campo _Regular Expression_, digite uma expressão regular
 correspondente.

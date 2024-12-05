@@ -28,17 +28,17 @@ apresentadas, clique em: **FROM A TEMPLATE**.
 (arquivo .JSON) está localizado. Clicando no ícone à direita é possível
 navegar entre as pastas do computador.
 
-![](data/images/image21.png)
+![](../data/images/image21.png)
 
 **Passo 5:** Clique no botão **OK**.
 
-![](data/images/image26.png)
+![](../data/images/image26.png)
 
 **Passo 6:** Uma nova aba será criada, juntamente com uma nova janela de
 visualização e terá como o título o nome poço que está sendo visualizado
 no gráfico.
 
-![](data/images/image24.jpg)
+![](../data/images/image24.jpg)
 
 ## 5.2 Logplot customizado
 
@@ -57,26 +57,26 @@ apresentadas, agora clique em: **CUSTOM**.
 visualizado. Clicando no ícone à direita, o seletor apresentará todas as
 opções de poços presentes no banco de dados do projeto carregado.
 
-![](data/images/image25.png)
+![](../data/images/image25.png)
 
-![](data/images/image1.png)
+![](../data/images/image1.png)
 
 **Passo 5:** Selecione a quantidade de _tracks_ desejada clicando no
 botão **Add Track**.
 
-![](data/images/image4.png)
+![](../data/images/image4.png)
 
 **Passo 6:** Para cada _track_ selecionado, informe qual perfil deseja
 plotar, escolhendo o mnemônico da curva no seletor. Em seguida, escolha
 o tipo de cada curva correspondente, selecionando a opção de texto ou
 linha.
 
-![](data/images/image14.png)
+![](../data/images/image14.png)
 
 **Passo 7:** Clique no botão **OK**.
 
-![](data/images/image13.png)
+![](../data/images/image13.png)
 
 Uma nova aba será criada com o título do poço selecionado.
 
-![](data/images/image12.png)
+![](../data/images/image12.png)

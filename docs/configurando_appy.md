@@ -16,20 +16,20 @@ projeto.
 
 **Passo 2:** Clique no botão **CREATE PROJECT**.
 
-![](data/images/image47.png)
+![](../data/images/image47.png)
 
 **Passo 3:** Uma nova janela será inicializada. Nela selecione o nome do
 projeto e o diretório onde deseja salvar. Para navegar entre as pastas
 do computador, o usuário pode clicar no ícone à direita. Em seguida,
 clique no botão **OK**.
 
-![](data/images/image44.png)
+![](../data/images/image44.png)
 
 Quando finalizado, uma pasta será criada no caminho selecionado com
 diversos arquivos padrões do projeto appy. Na tela, apresentará uma
 janela informando que o projeto foi criado com sucesso.
 
-![](data/images/image28.jpg)
+![](../data/images/image28.jpg)
 
 ## 2.2 Carregando um projeto appy existente
 
@@ -40,13 +40,13 @@ continuar a utilização do software.
 
 **Passo 2:** Clique no botão **LOAD PROJECT**.
 
-![](data/images/image30.png)
+![](../data/images/image30.png)
 
 **Passo 3:** Uma nova janela será inicializada. Selecione o local onde o
 projeto appy está. É possível navegar pelas pastas do computador,
 clicando no ícone à direita. Em seguida, clique no botão **OK**.
 
-![](data/images/image34.png)
+![](../data/images/image34.png)
 
 Quando finalizado, todos os dados do projeto serão visualizados no menu
 lateral, assim como, uma mensagem de que o projeto foi carregado com
