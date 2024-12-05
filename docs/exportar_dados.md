@@ -1,7 +1,6 @@
 ---
 title: Exportar dados
 nav_order: 5
-description: "Capitulo exportar dados"
 ---
 
 # Capítulo 4 - Exportar dados

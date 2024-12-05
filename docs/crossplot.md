@@ -1,7 +1,6 @@
 ---
 title: CrossPlot
 nav_order: 7
-description: "Capitulo sobre CrossPlot"
 ---
 
 # Capítulo 6 - CrossPlots

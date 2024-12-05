@@ -1,7 +1,6 @@
 ---
 title: Primeiros passos
 nav_order: 2
-description: "Capitulo primeiros passos"
 ---
 
 # Capítulo 1 - Primeiros passos no appy

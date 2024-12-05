@@ -1,7 +1,6 @@
 ---
 title: Configurando um projeto Appy
 nav_order: 3
-description: "Capitulo configurando um projeto Appy"
 ---
 
 # Capítulo 2 - Configurando um projeto appy

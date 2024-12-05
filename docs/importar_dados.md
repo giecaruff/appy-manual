@@ -1,7 +1,6 @@
 ---
 title: Importar dados
 nav_order: 4
-description: "Capitulo importar dados"
 ---
 
 # Capítulo 3 - Importar dados

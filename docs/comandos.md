@@ -1,7 +1,6 @@
 ---
 title: Comandos
 nav_order: 8
-description: "Capitulo sobre comandos do Appy"
 ---
 
 # Capítulo 7 - Comandos

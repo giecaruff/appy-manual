@@ -1,7 +1,6 @@
 ---
 title: LogPlot
 nav_order: 6
-description: "Capitulo sobre LogPlot"
 ---
 
 # Capítulo 5 - LogPlot
